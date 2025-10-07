@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/db4b84c7673b4ac486a16008a2aba837/artifacts
+end_time: 1759836231991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db4b84c7673b4ac486a16008a2aba837
+run_name: trusting-panda-3
+run_uuid: db4b84c7673b4ac486a16008a2aba837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759836226565
+status: 4
+tags: []
+user_id: samir

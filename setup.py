@@ -15,15 +15,12 @@ AUTHOR_EMAIL = "sameermishra280202@gmail.com"
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,
-    author=AUTHOR_USER_NAME,
-    author_email=AUTHOR_EMAIL,
+    author="SAMEER MISHRA",
+    author_email="sameermishra280202@gmail.com",
     description="A small python package for ml app",
     long_description=long_description,
     long_description_content="text/markdown",
-    url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
-    project_urls={
-        "Bug Tracker": f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
-    },
+    url="https://github.com/Sameermishra123/END-TO-END-MLPROJECT",
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src")
 )
